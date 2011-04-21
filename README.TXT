@@ -1,7 +1,7 @@
 SUMMARY
 *******
-This tiny jquery plugin help your to add live digital clock(s) to you page, with simple animation effect. Work with all major browsers (IE / FF / chrome / safari / opera).
-
+This tiny jquery plugin help your to add live digital clock(s) to you page, with simple animation effect. 
+Work with all major browsers (IE / FF / chrome / safari / opera).
 
 
 USAGE
