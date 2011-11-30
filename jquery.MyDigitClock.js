@@ -41,7 +41,10 @@
 				}
 				else
 				{
-					ampm = " AM";
+                                             if (h==12)
+                                                ampm = " PM";
+                                             else
+					    ampm = " AM";
 				}
 			}
 			
